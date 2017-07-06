@@ -12,7 +12,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/afragen/github-updater"
+      "url": "https://github.com/silverjerk/github-updater"
     }
   ],
   "authors": [
